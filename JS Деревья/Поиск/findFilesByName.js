@@ -29,6 +29,7 @@ const tree = {
       { name: 'cohOsts', type: 'file', meta: {}, },
     ],
 }
+
 // по сути эта задача мною даже не решена нормально.
 const findFilesByName = (tree, str) => {
   let result = [];
